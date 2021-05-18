@@ -9,4 +9,5 @@ But he's just not a penguin...
 I'm still not convinced he's better than a penguin.
 
 How about this?
+
 ![](https://github.com/AJSchiller/github-tutorial/blob/main/pig_penguin.webp)
